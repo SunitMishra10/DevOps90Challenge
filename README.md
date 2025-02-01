@@ -1,3 +1,3 @@
 # DevOps90Challenge
-Contains list of challenges for DevOps
-Changes here
+#Blog
+https://network-chronicles.hashnode.dev/computer-networking-a-nexus-of-nodes
